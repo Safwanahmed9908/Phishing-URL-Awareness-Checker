@@ -1,0 +1,12 @@
+# ==============================================================================
+# Phishing URL Awareness Checker - Requirements
+# ==============================================================================
+# This project is built using Python 3.10+ standard built-in libraries.
+# No external third-party pip dependencies are required to run the application.
+#
+# Standard Library Modules Used:
+# - urllib.parse (for parsing URL components like scheme, hostname, and path)
+# - ipaddress    (for validating whether a host is a raw IPv4/IPv6 address)
+# - re           (for regular expression checks and string sanitization)
+# - sys          (for system-level arguments and clean program exit)
+# ==============================================================================
